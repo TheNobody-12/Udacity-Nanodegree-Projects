@@ -10,8 +10,8 @@ Five different experiments were performed as follows:
 4. second hyperparameter model
 5. third hyperparameter model
 
-obs: While submitting to raw model it acheived very poor performance and high Kaggle Score but for better performance we need low kaggle score.
-Changes incorporated: Kaggle refuses the submissions containing negative predictions values obtained from the predictor. Hence, all such negative outputs from respective predictors were replaced with 0.
+#### observation: While submitting to raw model it acheived very poor performance and high Kaggle Score but for better performance we need low kaggle score.
+#### Changes incorporated: Kaggle refuses the submissions containing negative predictions values obtained from the predictor. Hence, all such negative outputs from respective predictors were replaced with 0.
 
 ### What was the top ranked model that performed?
 The Hperparameter model Second was top one as it has Kaggle score `0.51496` and RMSE score `34.674132`.
