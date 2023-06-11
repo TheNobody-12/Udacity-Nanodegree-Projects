@@ -1,7 +1,26 @@
-# AI-Programming-Udacity
-This my first Nanodegree Project
+# Details of the Projects 
 
-## Image Classifier Project
+## 📌 Introduction
+
+This repository contains the details of the projects that are done by the TheNobody-12. 
+
+## 📌 Projects
+
+<table>
+	<tr>
+		<td>
+			<b>1. <a href="
+			www.google.com">Project Name</a></b>
+			<br /> <sub>Project Description</sub>
+		</td>
+		<td>
+			<b>1. <a href="
+			www.google.com">Project Name</a></b>
+			<br /> <sub>Project Description</sub>
+		</td>
+	</tr>
+</table>
+
 
 
 
