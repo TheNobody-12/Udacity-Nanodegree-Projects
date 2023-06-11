@@ -9,14 +9,12 @@ This repository contains the details of the projects that are done by the TheNob
 <table>
 	<tr>
 		<td>
-			<b>1. <a href="
-			www.google.com">Project Name</a></b>
-			<br /> <sub>Project Description</sub>
+			<b>1. <a href="https://github.com/TheNobody-12/Udacity-Nanodegree-Projects/tree/master/Image%20Classifier%20Project">Image Classifier Project</a></b>
+			<br /> <sub>This Project was part of AI Programming With Python Nanodegree Course</sub>
 		</td>
 		<td>
-			<b>1. <a href="
-			www.google.com">Project Name</a></b>
-			<br /> <sub>Project Description</sub>
+			<b>2. <a href="https://github.com/TheNobody-12/Udacity-Nanodegree-Projects/tree/master/MLFundamentals-Project/Project_1_Bike_Sharing_Predictor/project">Project 1 Bike Sharing Prediction </a></b>
+			<br /> <sub>This is a Regression problem where we appied AutoGluon and tune it for better performance. It is part of ML Fundamentals NanoDegree</sub>
 		</td>
 	</tr>
 </table>
