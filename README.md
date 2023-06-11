@@ -13,7 +13,7 @@ This repository contains the details of the projects that are done by the TheNob
 			<br /> <sub>This Project was part of AI Programming With Python Nanodegree Course</sub>
 		</td>
 		<td>
-			<b>2. <a href="https://github.com/TheNobody-12/Udacity-Nanodegree-Projects/tree/master/MLFundamentals-Project/Project_1_Bike_Sharing_Predictor/project">Project 1 Bike Sharing Prediction </a></b>
+			<b>2. <a href="MLFundamentals-Project/Project_1_Bike_Sharing_Predictor">Project 1 Bike Sharing Prediction </a></b>
 			<br /> <sub>This is a Regression problem where we appied AutoGluon and tune it for better performance. It is part of ML Fundamentals NanoDegree</sub>
 		</td>
 	</tr>
