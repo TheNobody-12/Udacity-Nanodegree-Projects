@@ -36,6 +36,7 @@ Given more time to work with this dataset, I would like to investigate additiona
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
+|model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
 |initial|prescribed_values|prescribed_values|"presets: 'high quality' (auto_stack=True)"|0.52849|
 |add_features|prescribed_values|prescribed_values|"presets: 'high quality' (auto_stack=True)"|0.51496|
